@@ -1,0 +1,8 @@
+node_modules/**
+.idea/**
+.DS_Store
+formatted/**
+non-formatted/**
+
+!non-formatted/.gitkeep
+!formatted/.gitkeep
